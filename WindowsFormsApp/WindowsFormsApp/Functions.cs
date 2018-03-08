@@ -8,7 +8,6 @@ namespace WindowsFormsApp
 {
     class Functions
     {
-        //kalhdajsdlah
         public String Add(double inp1, double inp2)
         {
             return (inp1 + inp2).ToString();

@@ -19,6 +19,7 @@ namespace WindowsFormsApp
 
         private double input1 = 0.0;
         private double input2 = 0.0;
+        private double total = 0.0;
         private string operation = string.Empty;
         private Functions test;
 
